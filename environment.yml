@@ -1,0 +1,6 @@
+name: simple-api
+channels:
+  - conda-forge
+dependencies:
+  - flask >=3.1.2
+  - mypy >=1.19.1
